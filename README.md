@@ -244,7 +244,7 @@ Thus, on average, you need to flip **13 cards** to observe your first ace.
 ## [**Resell Painting**](https://quantquestions.io/problems/resell-painting)
 
 ### Problem Description
-You are currently bidding for a painting. You know that the value of the painting is between $$$0$$ and $$$100,000$$ uniformly. If your bid is greater than the value of the painting, you win and sell it to an art museum at a price of $$1.5$$ times the value. What's your bid to maximize your profit? If you can not profit, bid  $$\text{$}0$$.
+You are currently bidding for a painting. You know that the value of the painting is between `$0` and `$100,000` uniformly. If your bid is greater than the value of the painting, you win and sell it to an art museum at a price of $$1.5$$ times the value. What's your bid to maximize your profit? If you can not profit, bid  `$0`.
 
 ### Answer
 __The optimal bid is **$0** when the profit can’t be maximized.__
@@ -414,12 +414,12 @@ Thus, $$E[N] = 2.45$$.
 ## [**Pick Your Urn Wisely**](https://quantquestions.io/problems/pick-your-urn-wisely)
 
 ### Problem Description
-You have 2 indistinguishable urns in front of you. One of the urns has $$4 \$1$$ chips and $$6 \$10$$ chips. The other urn has $$3 \$1$$ chips and $$7 \$10$$ chips.
-You reach into one urn at random and select a $$\$1$$ chip. You are given the opportunity to pick another chip at random either from same urn as the 
+You have 2 indistinguishable urns in front of you. One of the urns has `4 \$1` chips and `6 \$10` chips. The other urn has `3 \$1` chips and `7 \$10` chips.
+You reach into one urn at random and select a `$1` chip. You are given the opportunity to pick another chip at random either from same urn as the 
 first chip or at random from the other urn. Your payout is the value of the second chip you select. Under optimal gameplay, what is your expected payout?
 
 ### Answer
-__Since the expected value of switching is greater than staying in either urn after drawing a $$\$1$$ chip, the optimal strategy is to switch. The expected payout under optimal play is $$6.85$$.__
+__Since the expected value of switching is greater than staying in either urn after drawing a `$1` chip, the optimal strategy is to switch. The expected payout under optimal play is `6.85`.__
 
 ### Solution Explanation
 We need to determine the optimal strategy by maximizing the expected payout based on the first chip drawn. Denote:
@@ -831,9 +831,9 @@ Thus, the fair value of this game is:
 ## [**Ten Ten**](https://quantquestions.io/problems/ten-ten)
 
 ### Problem Description
-Adam is rolling a fair $$10$$−sided die. He gets to roll repeatedly and may decide when to stop at any time. If he obtains a value that is not $$10$$ on each roll,
-he adds the upface to his total monetary sum. If he rolls a 10, he loses all of his money. If Adam plays optimally, he should stop once he has at least $$\$k$$ total. 
-Find $$k$$.
+Adam is rolling a fair `10`−sided die. He gets to roll repeatedly and may decide when to stop at any time. If he obtains a value that is not `10` on each roll,
+he adds the upface to his total monetary sum. If he rolls a 10, he loses all of his money. If Adam plays optimally, he should stop once he has at least `k` total. 
+Find `k`.
 
 ### Answer
 ```math
