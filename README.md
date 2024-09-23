@@ -270,7 +270,7 @@ Thus, the optimal bid is **$0** when the profit can’t be maximized.
 ## [**Local Maxima**](https://quantquestions.io/problems/local-maxima)
 
 ### Problem Description
-$$14$$ pieces of paper labelled $$1 \text{ − } 14$$ are placed in a line at random. Spot $$i$$ is a local maximum if the paper at the $$i$$th position is strictly larger than all of it's adjacent papers. Find the expected number of local maxima in the sequence. For example, with $$6$$ numbers, `513246` has $$3$$ local maxima at the first, third, and last spots.
+`14` pieces of paper labelled $$1 \text{ − } 14$$ are placed in a line at random. Spot `i` is a local maximum if the paper at the `i`th position is strictly larger than all of it's adjacent papers. Find the expected number of local maxima in the sequence. For example, with `6` numbers, `513246` has `3` local maxima at the first, third, and last spots.
 
 ### Answer
 __The expected number of local maxima is $$5$$.__
@@ -702,7 +702,7 @@ P(\text{End with all heads}) = \boxed{\left(\frac{1}{2}\right)^{24}}
 
 ### Problem Description
 Suppose that we generate $$X_1,X_2,\text{. . .},X_n \tilde Unif(0,1)$$ IID.
-Let $$U = min{X_1,\text{. . .},X_n} and $$V = max{X_1,\text{. . .},X_n}.
+Let $$U = min{X_1,\text{. . .},X_n}$$ and $$V = max{X_1,\text{. . .},X_n}$$.
 Compute $$P[U + V \gt 1]$$.
 
 ### Answer
