@@ -1,7 +1,7 @@
 # Brainteasers
 Challenging puzzles or problems used to evaluate analytical thinking and problem-solving skills, common in quant interview assessments.
 
-<div align="right"><a href="../Top_50_Questions.md" target="_blacnk"><img src="https://img.shields.io/badge/Back To Full Course-blue?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
+<div align="right"><a href="../Top_50_Questions.md" target="_blacnk"><img src="https://img.shields.io/badge/Back To Top 50 Quant Interview Questions-blue?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
 ## **Table of Contents** <a name="top"></a>
 

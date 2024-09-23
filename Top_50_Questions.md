@@ -1,4 +1,4 @@
-# Quant Interview Questions
+# __Top 50 Quant Interview Questions__
 
 This problem is an interesting example of game theory, where the pirates must make rational decisions to maximize their gain while ensuring survival.
 
