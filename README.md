@@ -4,8 +4,8 @@ This problem is an interesting example of game theory, where the pirates must ma
 
 ## **Table of Contents** <a name="top"></a>
 
-1. [**Increasing Dice Order I**](#increase-dice-order-i)
-2. [**Probability of Unfair Coin I**](#increase-dice-order-i)
+1. [**Increasing Dice Order I**](#increasing-dice-order-i)
+2. [**Probability of Unfair Coin I**](#probability-of-unfair-coin-i)
 3. [**Greedy Pirates**](#greedy-pirates)
 4. [**2D Paths I**](#2d-paths-i)
 5. [**First Ace**](#first-ace)
