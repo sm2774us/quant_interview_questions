@@ -4,6 +4,7 @@ Challenging puzzles or problems used to evaluate analytical thinking and problem
 ## **Table of Contents** <a name="top"></a>
 
 1. [**Bridge Crossing**](#bridge-crossing)
+2. [**Least Multiple of 15**](#least-multiple-of-15)
 
 <div align="right"><a href="#top" target="_blacnk"><img src="https://img.shields.io/badge/Back To Top-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
@@ -89,5 +90,74 @@ This formula reflects the sequence of moves that minimizes the time: using the f
 
 The minimum time to get all four across the river is **17 minutes**.
 
+<div align="right"><a href="#top" target="_blacnk"><img src="https://img.shields.io/badge/Back To Top-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
+
+## [**Least Multiple of 15**](https://quantquestions.io/problems/least-multiple-of-15)
+
+### Problem Description
+What is the least positive multiple of 15 whose digits consist of 1's and 0's only?
+
+### Answer
+The least positive multiple of 15 whose digits consist only of 1's and 0's is:
+
+```math
+\boxed{1110}
+```
+
+### Solution Explanation
+
+#### Solution Outline:
+
+To solve this problem, we need to find the smallest number that:
+1. Consists only of the digits 1 and 0.
+2. Is a multiple of 15.
+
+A number is divisible by 15 if and only if it satisfies **two conditions**:
+- **Divisible by 3**: The sum of its digits must be divisible by 3.
+- **Divisible by 5**: The number must end in either 0 or 5.
+
+Since the number is only allowed to consist of the digits 1 and 0, the divisibility by 5 condition reduces to the number **must end with 0** (as it cannot contain a 5).
+
+### Step-by-Step Breakdown:
+
+#### Step 1: Condition for Divisibility by 5
+As noted, to be divisible by 5, the number must end in 0. So, we are looking for a number made up of 1's and 0's that ends in 0.
+
+#### Step 2: Condition for Divisibility by 3
+For a number to be divisible by 3, the sum of its digits must be divisible by 3. In our case, the digits are 1 and 0, so the sum of the digits is simply the count of 1's in the number. Therefore, the number must have a total number of 1's that is divisible by 3.
+
+#### Step 3: Generating Candidate Numbers
+We now generate binary-like numbers (made up of 1's and 0's) that satisfy both conditions:
+- The number must end in 0 (for divisibility by 5).
+- The total number of 1's must be divisible by 3 (for divisibility by 3).
+
+Let's start by constructing such numbers and check them:
+
+1. **10**: 
+   - Ends in 0 (divisible by 5).
+   - Sum of digits = 1. Not divisible by 3.
+
+2. **110**:
+   - Ends in 0 (divisible by 5).
+   - Sum of digits = 1 + 1 = 2. Not divisible by 3.
+
+3. **1110**:
+   - Ends in 0 (divisible by 5).
+   - Sum of digits = 1 + 1 + 1 = 3. Divisible by 3. 
+   - Since it satisfies both conditions, **1110** is a multiple of 15.
+
+#### Step 4: Verify the Smallest Multiple
+The number **1110** is a valid multiple of 15, as it:
+- Ends in 0, satisfying the divisibility rule for 5.
+- The sum of the digits is 3, which is divisible by 3.
+
+Thus, the smallest multiple of 15 consisting only of 1's and 0's is **1110**.
+
+#### Final Answer:
+The least positive multiple of 15 whose digits consist only of 1's and 0's is:
+
+```math
+\boxed{1110}
+```
 
 <div align="right"><a href="#top" target="_blacnk"><img src="https://img.shields.io/badge/Back To Top-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
