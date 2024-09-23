@@ -244,7 +244,7 @@ Thus, on average, you need to flip **13 cards** to observe your first ace.
 ## [**Resell Painting**](https://quantquestions.io/problems/resell-painting)
 
 ### Problem Description
-You are currently bidding for a painting. You know that the value of the painting is between $$\$0$$ and $$\$100,000$$ uniformly. If your bid is greater than the value of the painting, you win and sell it to an art museum at a price of $$1.5$$ times the value. What's your bid to maximize your profit? If you can not profit, bid  $$\$0$$.
+You are currently bidding for a painting. You know that the value of the painting is between $$\text{$}0$$ and $$\text{$}100,000$$ uniformly. If your bid is greater than the value of the painting, you win and sell it to an art museum at a price of $$1.5$$ times the value. What's your bid to maximize your profit? If you can not profit, bid  $$\text{$}0$$.
 
 ### Answer
 __The optimal bid is **$0** when the profit can’t be maximized.__
