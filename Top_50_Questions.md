@@ -12,7 +12,7 @@ This problem is an interesting example of game theory, where the pirates must ma
 
 <div align="right"><a href="#top" target="_blacnk"><img src="https://img.shields.io/badge/Back To Top-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
-## [**Brainteasers**]
+## [**Brainteasers**](./brainteasers/README.md)
 Challenging puzzles or problems used to evaluate analytical thinking and problem-solving skills, common in quant interview assessments.
 
 <div align="right"><a href="#top" target="_blacnk"><img src="https://img.shields.io/badge/Back To Top-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
