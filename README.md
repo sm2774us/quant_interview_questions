@@ -701,9 +701,9 @@ P(\text{End with all heads}) = \boxed{\left(\frac{1}{2}\right)^{24}}
 ## [**The Sum Is Right**](https://quantquestions.io/problems/the-sum-is-right)
 
 ### Problem Description
-Suppose that we generate $$X_1,X_2,\text{. . .},X_n \tilde Unif(0,1)$$ IID.
-Let $$U = min{X_1,\text{. . .},X_n}$$ and $$V = max{X_1,\text{. . .},X_n}$$.
-Compute $$P[U + V \gt 1]$$.
+- Suppose that we generate $$X_1,X_2,\text{. . .},X_n \tilde$$ $$Unif(0,1)$$ IID.
+- Let $$U = min{X_1,\text{. . .},X_n}$$ and $$V = max{X_1,\text{. . .},X_n}$$.
+- Compute $$P[U + V \gt 1]$$.
 
 ### Answer
 ```math
