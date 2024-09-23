@@ -77,19 +77,19 @@ Thus, the probability that the first roll is strictly less than the second roll 
 ## [**Probability of Unfair Coin I**](https://quantquestions.io/problems/probability-of-unfair-coin-i)
 
 ### Problem Description
-You have a pile of $$100$$ coins. $$1$$ of the coins is an unfair coin and has heads on both sides. The remaining $$99$$ coins are fair coins. You randomly select a coin from the pile and flip it 
-$$10$$ times. The coin lands heads all $$10$$ times. Calculate the probability that the coin you selected is the unfair coin.
+You have a pile of `100` coins. `1` of the coins is an unfair coin and has heads on both sides. The remaining `99` coins are fair coins. You randomly select a coin from the pile and flip it 
+`10` times. The coin lands heads all `10` times. Calculate the probability that the coin you selected is the unfair coin.
 
 ### Answer
-__The probability that the selected coin is the unfair coin is approximately $$0.911$$ $$(91.1%)$$.__
+__The probability that the selected coin is the unfair coin is approximately `0.911` `(91.1%)`.__
 
 ### Solution Explanation
 This is a classic **Bayesian probability** problem.
 
 1. **Let’s Define Events**:
-   - $$U$$: You select the unfair coin.
-   - $$F$$: You select a fair coin.
-   - $$H_{10}$$: You observe 10 heads in a row.
+   - $$U$$ : You select the unfair coin.
+   - $$$$ : You select a fair coin.
+   - $$H_{10}$$ : You observe 10 heads in a row.
 
 2. **We want to calculate** $$P(U | H_{10})$$, the probability that the coin is unfair given that you observed 10 heads in a row. Using **Bayes' Theorem**:
 ```math
