@@ -21,7 +21,7 @@ This problem is an interesting example of game theory, where the pirates must ma
 15. [**Repeated Flipper**](#repeated-flipper)
 16. [**The Sum Is Right**](#the-sum-is-right)
 17. [**Say 50!**](#say-50)
-18. [**St. Petersburg Paradox**](#st--petersburg-paradox)
+18. [**St. Petersburg Paradox**](#st-petersburg-paradox)
 19. [**Ten Ten**](#ten-ten)
 20. [**Coin Flipping Competition III**](#coin-flipping-competition-iii)
 
