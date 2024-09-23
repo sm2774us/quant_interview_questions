@@ -23,6 +23,7 @@ This problem is an interesting example of game theory, where the pirates must ma
 17. [**Say 50!**](#say-50)
 18. [**St. Petersburg Paradox**](#st--petersburg-paradox)
 19. [**Ten Ten**](#ten-ten)
+20. [**Coin Flipping Competition III**](#coin-flipping-competition-iii)
 
 <div align="right"><a href="#top" target="_blacnk"><img src="https://img.shields.io/badge/Back To Top-orange?style=for-the-badge&logo=expo&logoColor=white" /></a></div>
 
