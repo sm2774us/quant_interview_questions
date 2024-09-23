@@ -795,8 +795,8 @@ Thus, the answer is:
 ## [**St. Petersburg Paradox**](https://quantquestions.io/problems/petersburg-paradox)
 
 ### Problem Description
-Suppose you are offered to play a game where you flip a fair coin until you obtain a heads for the first time. If the first heads occurs on the $$n$$th flip, you are paid out  $$2^n$$.
-What is the fair value of this game? If your answer is infinite, enter $$−1$$.
+Suppose you are offered to play a game where you flip a fair coin until you obtain a heads for the first time. If the first heads occurs on the `n`th flip, you are paid out  $$2^n$$.
+What is the fair value of this game? If your answer is infinite, enter `−1`.
 
 ### Answer
 ```math
