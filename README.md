@@ -88,7 +88,7 @@ This is a classic **Bayesian probability** problem.
 
 1. **Let’s Define Events**:
    - $$U$$ : You select the unfair coin.
-   - $$$$ : You select a fair coin.
+   - $$F$$ : You select a fair coin.
    - $$H_{10}$$ : You observe 10 heads in a row.
 
 2. **We want to calculate** $$P(U | H_{10})$$, the probability that the coin is unfair given that you observed 10 heads in a row. Using **Bayes' Theorem**:
